@@ -1,0 +1,14 @@
+C:\Users\shane\source\repos\Bank1\bin\Debug\net6.0\Bank1.exe
+C:\Users\shane\source\repos\Bank1\bin\Debug\net6.0\Bank1.deps.json
+C:\Users\shane\source\repos\Bank1\bin\Debug\net6.0\Bank1.runtimeconfig.json
+C:\Users\shane\source\repos\Bank1\bin\Debug\net6.0\Bank1.dll
+C:\Users\shane\source\repos\Bank1\bin\Debug\net6.0\Bank1.pdb
+C:\Users\shane\source\repos\Bank1\obj\Debug\net6.0\Bank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\Bank1\obj\Debug\net6.0\Bank1.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\Bank1\obj\Debug\net6.0\Bank1.AssemblyInfo.cs
+C:\Users\shane\source\repos\Bank1\obj\Debug\net6.0\Bank1.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\Bank1\obj\Debug\net6.0\Bank1.dll
+C:\Users\shane\source\repos\Bank1\obj\Debug\net6.0\refint\Bank1.dll
+C:\Users\shane\source\repos\Bank1\obj\Debug\net6.0\Bank1.pdb
+C:\Users\shane\source\repos\Bank1\obj\Debug\net6.0\Bank1.genruntimeconfig.cache
+C:\Users\shane\source\repos\Bank1\obj\Debug\net6.0\ref\Bank1.dll
